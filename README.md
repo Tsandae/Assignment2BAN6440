@@ -48,8 +48,8 @@ This project presents a supervised machine learning model developed to predict c
 - `credit_risk_prediction.ipynb`: Jupyter Notebook containing full code.
 - `equty_credit_risk_data.csv`: CSV document 
 - `README.md`: This file.
-
 ---
+
 
 ## Libraries Used
 
@@ -57,3 +57,10 @@ This project presents a supervised machine learning model developed to predict c
 - `scikit-learn` – Model building and evaluation
 - `seaborn`, `matplotlib` – Data visualization
 - `imblearn` – SMOTE for handling class imbalance
+---
+## Reference 
+
+- Shreya Singh. (2023). Model Optimization in Python: Enhancing Model Performance. Medium. https://medium.com/@jscvcds/model-optimization-in-python-enhancing-model-performance-1b78dbf4c8b9
+- Data Camp. (2024). Classification in Machine Learning: An Introduction. Data Camp. https://www.datacamp.com/blog/classification-machine-learning
+
+
