@@ -57,6 +57,3 @@ This project presents a supervised machine learning model developed to predict c
 - `scikit-learn` – Model building and evaluation
 - `seaborn`, `matplotlib` – Data visualization
 - `imblearn` – SMOTE for handling class imbalance
-
-   ```bash
-   pip install pandas numpy scikit-learn imblearn matplotlib seaborn
