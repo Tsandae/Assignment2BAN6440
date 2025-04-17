@@ -58,6 +58,13 @@ This project presents a supervised machine learning model developed to predict c
 - `seaborn`, `matplotlib` – Data visualization
 - `imblearn` – SMOTE for handling class imbalance
 ---
+## How to Run
+
+1. Clone this repository or download the notebook.
+2. Install dependencies:
+   ```bash
+   pip install pandas numpy scikit-learn imblearn matplotlib seaborn
+---
 ## Reference 
 
 - Shreya Singh. (2023). Model Optimization in Python: Enhancing Model Performance. Medium. https://medium.com/@jscvcds/model-optimization-in-python-enhancing-model-performance-1b78dbf4c8b9
